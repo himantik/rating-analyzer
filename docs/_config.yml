@@ -1,0 +1,12 @@
+remote_theme: nickbenn-workshop/just-the-docs
+
+title: Rating Analyzer Implementation
+
+aux_links_new_tab: true
+aux_links:
+  Javadocs: "https://tlg-sde-curriculum.github.io/rating-analyzer-spec/api/"
+  Assignment: "https://classroom.github.com/a/GAGj9HdY"
+
+deadline:
+  submission: "7:00 AM PDT, on Friday, 30 September, 2022"
+  feedback: "7:00 AM PDT, on Tuesday, 4 October, 2022"
